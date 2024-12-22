@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome 👋
+
+My name is Daniel Ennis, I love mathematics and computation, I work as a Radio Network engineer for AT&T, and Im currently getting my MS in Applied Mathematics from Johns Hopkins University.
+
+- 🔭 I’m currently working on studying how orthogonal polynomials perform in some common machine learning algorithms
+- 🌱 I’m currently learning stochastic calculus (with an eye towards applications in investing) 
+- 😄 Pronouns: he/him/his
 
 <!--
 **danielennis521/danielennis521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
