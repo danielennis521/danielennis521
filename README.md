@@ -2,8 +2,8 @@
 
 My name is Daniel Ennis, I love mathematics and computation, I work as a Radio Network engineer for AT&T, and Im currently getting my MS in Applied Mathematics from Johns Hopkins University.
 
-- 🔭 I’m currently working on studying the performance of orthogonal polynomials in some common machine learning algorithms
-- 🌱 I’m currently learning stochastic calculus (with an eye towards applications in investing) 
+- 🔭 I’m currently working on finite differences for nonlinear PDEs 
+- 🌱 I’m currently learning stochastic calculus
 - 😄 Pronouns: he/him/his
 
 <!--
